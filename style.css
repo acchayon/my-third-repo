@@ -1,0 +1,33 @@
+h1{
+    color: Blue;
+    height: 40px;
+    width: 20%;
+    background-color: rgb(213, 213, 231);
+    border: 1px solid black;
+    text-align: center;
+    box-shadow: 1px 1px 5px 0;
+    margin: 30px 10px 10px 40px;
+    border-radius: 50%;
+    display: inline-block;
+
+}
+#ac{
+    color: rgb(153, 231, 50);
+    height: 45px;
+    width: 20%;
+    background-color: rgb(64, 64, 218);
+    border: 1px solid rgb(83, 236, 12);
+    text-align: center;
+    box-shadow: 1px 1px 5px 5px;
+    margin: 30px 10px 10px 40px;
+    border-radius: 50%;
+    display: inline-block;
+}
+header{
+    height: 450px;
+    width: 100%;
+    background-image: url(../web-day1-html/img/FB_IMG_1567610573787.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+}
